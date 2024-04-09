@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/fadms/ProjectDoc/index.html</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/fadms/ProjectDoc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basics</title>
+      <link>http://localhost:1313/fadms/ProjectDoc/basics/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fadms/ProjectDoc/basics/index.html</guid>
+      <description>This is a new chapter.I am going write it details</description>
+    </item>
+    <item>
+      <title>Process</title>
+      <link>http://localhost:1313/fadms/ProjectDoc/process/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fadms/ProjectDoc/process/index.html</guid>
+      <description>This is a new chapter.Here we will discuss the processes of the data</description>
+    </item>
+    <item>
+      <title>Benefits</title>
+      <link>http://localhost:1313/fadms/ProjectDoc/benefits/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fadms/ProjectDoc/benefits/index.html</guid>
+      <description>This is a new chapter.Here we will discuss the benefits of the chapter</description>
+    </item>
+    <item>
+      <title>Conclusion</title>
+      <link>http://localhost:1313/fadms/ProjectDoc/conclusion/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fadms/ProjectDoc/conclusion/index.html</guid>
+      <description>This is a new chapter.Here we will discuss the conclusion of all the chapters.</description>
+    </item>
+  </channel>
+</rss>
